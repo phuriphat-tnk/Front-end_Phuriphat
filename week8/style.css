@@ -1,0 +1,47 @@
+.header {
+    background-color: #222c34;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    width: 98%;
+}
+
+body {
+    background-color: #f2f2f2;
+}
+
+h1 {
+    color: aliceblue; 
+    text-align: center; 
+    margin: 10;
+}
+
+.bird-background{
+    background-color: #f2f2f2;
+    display: inline-flex;
+    text-align: center;
+    gap: 137px;
+    padding: 20px;
+}
+
+.bird {
+    text-align: center;
+    margin: 10;
+    background-color: #ffffff;
+    border: 2px solid #ccc;
+    border-radius: 15px;
+    padding: 15px;
+    width: 250px;
+}
+
+.bird-info {
+    text-align: center;
+    margin: 10;
+    color : #222c34
+}
+
+
+a {
+    text-decoration: none; /* ลบเส้นใต้จากลิงก์ */
+    color : #222c34
+}
